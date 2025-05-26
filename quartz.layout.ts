@@ -38,13 +38,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.TableOfContents(),
     Component.Explorer(),
-  ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
