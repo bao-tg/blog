@@ -1,12 +1,12 @@
 # Developer Documentation – Obsidian Kindle Vocabulary Builder Plugin
 
-Welcome to the developer documentation for the [**Obsidian Kindle Vocabulary Builder**](https://github.com/bao-tg/obsidian-kindle-vocab-plugin). This guide will help you understand the architecture, extend functionality, and contribute effectively to the plugin.
+Welcome to the developer documentation for the [**Obsidian Kindle Vocabulary Builder**](https://github.com/bao-tg/kindle-vocab). This guide will help you understand the architecture, extend functionality, and contribute effectively to the plugin.
 
 ---
 
 ## 1. Overview
 
-* **Plugin Name**: `obsidian-kindle-vocab-plugin`
+* **Plugin Name**: `kindle-vocab`
 * **Project Origin**:
   Originally developed as a Spring 2025 course project at VinUniversity. It emerged from a personal pain point — the lack of a simple way to export Kindle Vocabulary Builder data into Markdown for use in Obsidian.
 
@@ -51,8 +51,8 @@ cd .obsidian/plugins
 
 Clone the repository
 ```bash
-git clone https://github.com/bao-tg/obsidian-kindle-vocab-plugin
-cd obsidian-kindle-vocab-plugin
+git clone https://github.com/bao-tg/kindle-vocab
+cd kindle-vocab
 ```
 
 Install dependencies and build/run
