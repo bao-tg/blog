@@ -17,7 +17,6 @@ I write this part mainly to help students in Fall25 of VinUniversity to get fami
 [[Eigenvalue, eigenvector.md]].
 [[Singular Value Decomposition.md]].
 [[PCA.md]].
-[[Quadractic Form.md]].
-[[Elipsoid.md]].
+[[PSD.md]].
 
 > Maybe, if I have time, I will write the theoretical parts related to vectorspace, nullspace, and some of the tips to learn mathematics.
