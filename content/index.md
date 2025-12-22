@@ -4,7 +4,20 @@ title: Hello, world!
 
 # About me
 
-+ I'm Truong Gia Bao (people tend to call me Bao), a current third-year student, pursuing Computer Science at VinUniversity.
-+ This is my personal website, where I share my projects, thoughts, and experiences.
-+ More information about me can be found on my [GitHub](https://github.com/bao-tg)
++ Currently a senior student at VinUniversity, major: Computer Science.
++ I write everything here, including lecture notes, thoughts, or experience. 
++ If you guys find my blog useful, you can donate me here :D: https://buymeacoffee.com/baotg.
++ For any feedback, please write an email for me to: tgb0015@gmail.com (I will probably add your name into the acknowledgement of each note). Or open a direct pull request here: https://github.com/bao-tg/blog. 
 
+# Maths
+## Linear Algebra
+
+I write this part mainly to help students in Fall25 of VinUniversity to get familiar with advanced maths.
+
+[[Eigenvalue, eigenvector.md]].
+[[Singular Value Decomposition.md]].
+[[PCA.md]].
+[[Quadractic Form.md]].
+[[Elipsoid.md]].
+
+> Maybe, if I have time, I will write the theoretical parts related to vectorspace, nullspace, and some of the tips to learn mathematics.
